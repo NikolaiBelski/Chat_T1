@@ -1,0 +1,4 @@
+/dist
+.env
+example_db.json
+node_modules
